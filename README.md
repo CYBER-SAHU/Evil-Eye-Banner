@@ -6,5 +6,5 @@ cd Evil-Eye-Banner
 ls
 bash Banner.sh
 
-# enter your banner name and cowsay name
-# open new sesion
+#enter your banner name and cowsay name
+#open new sesion
